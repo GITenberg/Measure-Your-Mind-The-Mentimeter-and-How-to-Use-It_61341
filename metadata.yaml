@@ -1,5 +1,8 @@
 _repo: Measure-Your-Mind-The-Mentimeter-and-How-to-Use-It_61341
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61341-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Stockbridge, Frank Parker
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51371'
     url: http://www.gutenberg.org/2009/agents/51371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61341#Measure-Your-Mind-The-Mentimeter-and-How-to-Use-It
 gutenberg_issued: '2020-02-08'
 gutenberg_type: Text
 identifiers:
